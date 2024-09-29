@@ -28,6 +28,7 @@
   color: #ffffff;
   font-weight: 800;
   text-transform: uppercase;
+  text-align: center;
 }
 .hero-actions {
   gap: var(--dl-space-space-unit);

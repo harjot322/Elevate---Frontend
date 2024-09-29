@@ -90,18 +90,18 @@ const Features1 = (props) => {
 Features1.defaultProps = {
   feature3ImgAlt: 'AI-Driven Insights Image Alt',
   feature2ImgSrc:
-    'https://images.unsplash.com/photo-1477925650445-9dc5d0aa1595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4NXw&ixlib=rb-4.0.3&q=80&w=1080',
+    'Metaverse.png',
   feature1ImgAlt: 'Role-Based Access Image Alt',
   feature2Description:
     'Users can explore innovation updates interactively through virtual spaces representing departments.',
   feature1ImgSrc:
-    'https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4NHw&ixlib=rb-4.0.3&q=80&w=1080',
+    'Role.jpg',
   feature2Title: 'Virtual Campus Simulation',
   feature1Description:
     'Elevate offers secure and personalized experiences for students, faculty, and administrators.',
   feature2ImgAlt: 'Virtual Campus Simulation Image Alt',
   feature3ImgSrc:
-    'https://images.unsplash.com/photo-1527249014055-1b2b9d5e9fbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4M3w&ixlib=rb-4.0.3&q=80&w=1080',
+    'AI.jpg',
   feature3Description:
     'Elevate integrates AI to analyze data, identify trends, and offer predictive insights for decision-making.',
   feature1Title: 'Role-Based Access',

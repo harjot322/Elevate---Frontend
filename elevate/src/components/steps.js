@@ -11,7 +11,7 @@ const Steps = (props) => {
         <div className="steps-container2 thq-grid-2">
           <div className="steps-section-header">
             <h2 className="steps-text10 thq-heading-2">
-              Discover the Power of Elevate
+            ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Discover the Power of Elevate
             </h2>
             <p className="thq-body-large">
               <span className="steps-text12">

@@ -81,7 +81,7 @@ const Hero = (props) => {
             />
             <img
               alt="Hero Image"
-              src="https://images.unsplash.com/photo-1534312527009-56c7016453e6?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDIxfHxhYnN0cmFjdHxlbnwwfHx8fDE3MTA4NzA5MzB8MA&amp;ixlib=rb-4.0.3&amp;w=1500"
+              src="IMG14.jpg"
               className="hero-placeholder-image21 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
@@ -147,7 +147,7 @@ const Hero = (props) => {
             />
             <img
               alt="Hero Image"
-              src="https://images.unsplash.com/photo-1568214379698-8aeb8c6c6ac8?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEyfHxncmFmaWN8ZW58MHx8fHwxNzE1Nzk0OTk5fDA&amp;ixlib=rb-4.0.3&amp;w=1500"
+              src="IMG14.jpg"
               className="hero-placeholder-image33 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
@@ -184,44 +184,41 @@ const Hero = (props) => {
 }
 
 Hero.defaultProps = {
-  image2Src:
-    'https://images.unsplash.com/photo-1541480601022-2308c0f02487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4NHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image3Alt: 'Hero Image',
+  image2Src: 'IMG1.jpg',
+  image3Alt: 'IMG2.jpg',
   content1:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.',
   image6Alt: 'Hero Image',
   image12Alt: 'Hero Image',
   image2Alt: 'Hero Image',
-  image4Src:
-    'https://images.unsplash.com/photo-1533789933096-a16bc61bf178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4OHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image9Src:
-    'https://images.unsplash.com/photo-1585163218247-7a44236dd0f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4N3w&ixlib=rb-4.0.3&q=80&w=1080',
+  image4Src: 'IMG3.jpg',
+  image9Src: 'IMG4.jpg',
   image3Src:
-    'https://images.unsplash.com/photo-1520966629575-180a0bb2e33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4M3w&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG5.jpg',
   image10Alt: 'Hero Image',
   image9Alt: 'Hero Image',
   action1: 'Main action',
   image5Src:
-    'https://images.unsplash.com/photo-1446937179942-7fcfab24fb81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4OHw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG7.jpg',
   image7Alt: 'Hero Image',
   image8Src:
-    'https://images.unsplash.com/photo-1447015237013-0e80b2786ddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4N3w&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG6.jpg',
   image12Src:
-    'https://images.unsplash.com/photo-1611937846700-cc3c02b3b6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4N3w&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG8.jpg',
   image1Alt: 'Hero Image',
   image11Alt: 'Hero Image',
   image11Src:
-    'https://images.unsplash.com/photo-1622234365860-c8ae2e35b56c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4NXw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG9.jpg',
   image6Src:
-    'https://images.unsplash.com/photo-1428660285748-340f4e33d608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4Nnw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG10.jpg',
   image10Src:
-    'https://images.unsplash.com/photo-1448630360428-65456885c650?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4OHw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG11.jpg',
   image1Src:
-    'https://images.unsplash.com/photo-1501715144235-022910fda94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4OXw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG12.jpg',
   image8Alt: 'Hero Image',
   heading1: 'Medium length hero headline goes here',
   image7Src:
-    'https://images.unsplash.com/photo-1529653762956-b0a27278529c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyNzYzMjU4Nnw&ixlib=rb-4.0.3&q=80&w=1080',
+    'IMG13.jpg',
   image5Alt: 'Hero Image',
   image4Alt: 'Hero Image',
 }

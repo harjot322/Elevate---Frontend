@@ -173,7 +173,6 @@
   font-size: 35px;
   font-family: STIX Two Text;
   font-weight: 600;
-  line-height: 1.5;
 }
 .thq-heading-3 {
   font-size: 26px;
@@ -185,6 +184,7 @@
   font-size: 18px;
   font-family: Noto Sans;
   line-height: 1.5;
+  text-align: center;
 }
 .thq-body-small {
   font-size: 16px;

@@ -22,7 +22,7 @@ const Home = (props) => {
       </Helmet>
       <Navbar rootClassName="navbarroot-class-name"></Navbar>
       <Hero
-        heading1="      Elevate : Unleashing Innovation,                     Redefining Excellence"
+        heading1="Elevate : Unleashing Innovation, Redefining Excellence"
         content1="Your comprehensive platform designed to showcase and measure innovation within educational institutions. Experience a new era of data-driven insights, where you can track achievements, visualize innovation indicators, and foster collaboration across departments."
         action1="Explore"
       ></Hero>
